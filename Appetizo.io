@@ -1,1 +1,1 @@
-https://appetize.io/apps/android/com.example.alpha_learnapp
+https://appetize.io/app/b_de7fdo7lancoilsx6v6lvnahpu?device=pixel7&osVersion=13.0
