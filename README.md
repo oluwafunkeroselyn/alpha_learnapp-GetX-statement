@@ -1,7 +1,7 @@
+appetize.io https://appetize.io/app/b_xv2l5azgwuu5dz745woihjqrvu?device=pixel7&osVersion=13.0
 # alpha_learnapp
 
-A new Flutter project.
-
+A new Flutter project
 ## Getting Started
 
 This project is a starting point for a Flutter application.
