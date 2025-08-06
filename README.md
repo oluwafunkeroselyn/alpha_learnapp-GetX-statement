@@ -1,4 +1,4 @@
-appetize.io https://appetize.io/app/b_xv2l5azgwuu5dz745woihjqrvu?device=pixel7&osVersion=13.0
+https://appetize.io/app/b_etavj4umylsqxdv6giqu3gyxoi?device=pixel7&osVersion=13.0
 # alpha_learnapp
 
 A new Flutter project
